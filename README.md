@@ -1,5 +1,6 @@
 # SQL
-review_code_of_sql_
+review_code_of_sql
+
 Here is the review code description of sql
 
 - DQL
